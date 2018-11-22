@@ -4,7 +4,7 @@
 % quantum harmonic oscillator.
 %
 % This script was developed for a video tutorial available on YouTube at
-% 
+% https://youtu.be/yf-PF1kkPNU 
 % 
 % This is a follow-on tutorial for a tutorial on the eigenstates of the
 % Hamiltonian for the quantum harmonic oscillator (link:
