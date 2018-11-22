@@ -1,3 +1,16 @@
+% demoQHOscillator.m
+%
+% This script demonstrates the truncated Fock space treatment of a
+% quantum harmonic oscillator.
+%
+% This script was developed for a video tutorial available on YouTube at
+% https://youtu.be/lTSLypQqSd0
+%
+% E.P. Blair
+% Baylor University
+% November 21, 2018
+%
+
 %% Constants
 hbar = 6.58E-16; % [eV*s] the reduced Planck constant
 c_cm = 2.997E10; % [cm/s] the speed of light

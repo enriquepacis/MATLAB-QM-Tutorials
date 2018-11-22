@@ -1,3 +1,15 @@
+% demoQuantumDots.m
+% This MATLAB script demonstrates the modeling of a system of N coupled
+% quantum dots with one single mobile electron.
+%
+% This script accompanies a tutorial video available on YouTube at
+% https://youtu.be/1nbECALMemE
+%
+% E.P. Blair
+% Baylor University
+% November 21, 2018
+%
+
 close all;
 clear all;
 
